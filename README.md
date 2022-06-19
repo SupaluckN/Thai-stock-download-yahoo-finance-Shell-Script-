@@ -1,1 +1,1 @@
-# th-stock-download-yhoo-finance
+# th-stock-download-yahoo-finance
