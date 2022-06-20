@@ -1,1 +1,1 @@
-400 Bad Request: Invalid input - start date cannot be after end date. startDate = 16540560001, endDate = 1654401600
+400 Bad Request: Data doesn't exist for startDate = 1, endDate = 1633406400
