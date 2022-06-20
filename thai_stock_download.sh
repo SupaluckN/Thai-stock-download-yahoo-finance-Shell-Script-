@@ -1,6 +1,6 @@
 
-from_unix_time=$(date --date='2021100EDT' +"%s")
-to_unix_time=$(date --date='20211005EDT' +"%s")
+from_unix_time=$(date --date='20220117EDT' +"%s")
+to_unix_time=$(date --date='20220101EDT' +"%s")
 
 #stock="SCB.BK"
 #for stock in kbank.bk scb.bk ptt.bk; do
