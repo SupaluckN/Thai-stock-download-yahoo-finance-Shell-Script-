@@ -1,1 +1,2 @@
-400 Bad Request: Data doesn't exist for startDate = 1, endDate = 1633406400
+Date,Open,High,Low,Close,Adj Close,Volume
+2022-06-20,106.000000,106.000000,101.500000,103.000000,103.000000,25813388
