@@ -3,9 +3,3 @@ bbl.bk
 cimbt.bk
 kbank.bk
 kkp.bk
-ktb.bk 
-lhfg.bk  
-scb.bk 
-tcap.bk 
-tisco.bk 
-ttb.bk
